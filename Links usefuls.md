@@ -2,6 +2,7 @@
 
 - http://www.nltk.org/book_1ed/ch01.html
 - https://www.youtube.com/playlist?list=PLlrxD0HtieHiXd-nEby-TMCoUNwhbLUnj
+- https://entrenamiento-python-basico.readthedocs.io/es/latest/leccion3/operadores_asignaciones.html
 
 General:
 - https://www.educba.com/tkinter-spinbox/
